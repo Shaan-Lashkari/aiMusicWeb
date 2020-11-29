@@ -1,0 +1,44 @@
+.header {
+    top: 0;
+    margin: 0;
+    width: 100%;
+    font-size: 34px;
+    font-family: 'Satisfy', cursive;
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+canvas{
+    border-radius:20px;
+    border:3px solid white;
+
+}
+.note{
+    font-size:18px;
+    color:#000000;
+}
+.div_speed{
+    float:left;
+}
+.div_speed_img{
+    width:200px;
+    border-radius:700%;
+}
+#speed{
+    font-size:23px;
+    margin:15px;
+}
+.div_volume{
+    float:right;
+    
+}
+.div_volume_img{
+    width:200px;
+    border-radius:100px;
+
+}
+#volume{
+    font-size:23px;
+    margin:15px;
+}
+.play-btn{
+    font-size:28px!important;
+}
